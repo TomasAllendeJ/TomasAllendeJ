@@ -2,7 +2,7 @@
 
 **Estudiante de Ingeniería · Análisis de Datos & Business Intelligence**
 
-Me interesa convertir datos desordenados en decisiones: desde planillas Excel dispersas hasta modelos relacionales, tableros y pronósticos. Trabajo principalmente con **Python**, **Power BI** y **SQL**, y me entusiasman las **series de tiempo**, la **detección de anomalías** y la **visualización** de datos.
+Me interesa convertir datos desordenados en decisiones: desde planillas Excel dispersas hasta modelos relacionales, tableros y pronósticos. Trabajo principalmente con **Python**, **Power BI** y **SQL**, y me entusiasman las **series de tiempo**, la **detección de anomalías**, la **visualización** de dato, entre otros.
 
 ---
 
