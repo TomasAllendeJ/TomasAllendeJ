@@ -27,6 +27,7 @@ Me interesa convertir datos desordenados en decisiones: desde planillas Excel di
 | [**flight-price-prediction-ml**](https://github.com/TomasAllendeJ/flight-price-prediction-ml) | Predicción de precios de vuelos (~300k registros) comparando Regresión Lineal, Ridge, Lasso y Elastic Net (R²=0.91). | ML · Regresión |
 | [**powerbi-veterinaria-bi**](https://github.com/TomasAllendeJ/powerbi-veterinaria-bi) | Sistema de BI end-to-end: modelo relacional, KPIs y tablero en Power BI (con dataset sintético). | Power BI · BI · ETL |
 | [**iele756-region-05**](https://github.com/TomasAllendeJ/iele756-region-05) | Análisis de datos públicos chilenos (Censo, ENO, GRD): limpieza, EDA y detección de anomalías. | EDA · Salud pública |
+| [**perishable-inventory-optimization**](https://github.com/TomasAllendeJ/perishable-inventory-optimization) | Modelo MILP (Gurobi) para optimizar la compra de inventario perecible minimizando costos y merma. | Optimización · OR |
 
 ---
 
